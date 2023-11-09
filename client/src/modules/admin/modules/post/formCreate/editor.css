@@ -1,0 +1,17 @@
+.rich-editor .rdw-dropdown-selectedtext {
+  color: unset;
+  /* padding: 10rem; */
+}
+
+.rich-editor .DraftEditor-editorContainer {
+  min-height: 800px;
+  border: 1px solid #ccc;
+
+  padding: 0 8px;
+
+  /* background-color: #ebebde; */
+}
+
+.rich-editor .rdw-editor-toolbar {
+  /* background: #b7b7a5; */
+}
